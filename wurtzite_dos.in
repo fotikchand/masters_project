@@ -1,0 +1,8 @@
+&DOS
+	outdir='.',
+	prefix='zno',
+	Emin= -10,
+	Emax=38,
+	DeltaE=2,
+	fildos='zno.dos',
+/

@@ -1,0 +1,5 @@
+&BANDS
+	outdir='.',
+	prefix='zno',
+	filband='znobands.dat',
+/
